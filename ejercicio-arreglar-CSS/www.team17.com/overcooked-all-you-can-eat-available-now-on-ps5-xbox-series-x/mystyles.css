@@ -5,3 +5,19 @@
 /* h1 {
     color: red;
 } */
+
+.published-date.tagline.mb-3.xl\:mb-4.text-center {
+    color: brown;
+}
+
+.lg\:py-3.bg-black.site-header__body.relative.z-20.py-2 {
+    background-color:  rgb(132, 0, 197,0.9)
+}
+
+.wysiwyg.mb-10.px-4.lg\:px-10.xl\:px-20 h4:nth-child(1) {
+    text-align: center;
+}
+
+.logos-social-networks.flex.flex-wrap.\-mb-4.\-mr-4 {
+    justify-content: center;
+}
